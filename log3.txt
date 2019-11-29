@@ -1,0 +1,17 @@
+commit bcda7068cfb4b17e975d994cd19c96a835917c95
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Nov 28 21:58:54 2019 -0300
+
+    Commit Questao 3
+
+commit a0ec85c71ad7117ac0224fdaa0d5a97dc4a59360
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Nov 28 21:47:57 2019 -0300
+
+    Commit Questao 2
+
+commit 309efb9da961f061236dcf04dd5dd69f32b422b6
+Author: Tiago Oliveira <36973310+Tiastra@users.noreply.github.com>
+Date:   Thu Nov 28 21:49:20 2019 -0300
+
+    Initial commit
